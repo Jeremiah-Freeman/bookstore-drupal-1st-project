@@ -1,4 +1,4 @@
-## A Shifty Cipher
+## Powell Bookstore
 
 ### Description :
     * Building a mock Bookstore using Drupal 7.  User can enter new and review books with ratings.
